@@ -1,6 +1,4 @@
-# 004 Faça um programa que leia algo pelo o teclado e mostre na tela o seu tipo e todas as informações sobre ela.'
-
-# 003 crie um programa que leia dois numeros e mostre a soma entre eles.
+# 004 Faça um programa que leia algo pelo o teclado e mostre na tela o seu tipo e todas as informações sobre ela.
 
 n = input('digite aqui:  ')
 
